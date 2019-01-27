@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'everhour2toggl'
+
+Everhour2toggl::CLI.start(ARGV)
